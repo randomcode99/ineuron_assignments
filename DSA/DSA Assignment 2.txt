@@ -1,0 +1,9 @@
+1) True. Because both f(n) and g(n) are Theta(n).
+
+2) True. Same reason as above
+
+3) False. LHS upon computation converts to n^11, which is not O(n^5)
+
+4) True. LHS computes to 2^n, which is O(2^n)
+
+5) True. LHS computes to n^9 which is Theta(n^9)
